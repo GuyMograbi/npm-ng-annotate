@@ -1,6 +1,6 @@
 {
   "name": "npm-ng-annotate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "allows to run ng-annotate from npm scripts while using glob to specify the files",
   "main": "npm-ng-annotate",
   "bin": {
